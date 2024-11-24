@@ -16,5 +16,5 @@
 
 - Python 3 instalado.
 - As bibliotecas: Pandas, Matplotlib e Jupyter Notebook.
-- Clonar ou repositório
+- Clonar o repositório
 - Abra o arquivo no Jupyter Notebook:
