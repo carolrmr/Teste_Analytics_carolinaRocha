@@ -1,0 +1,1001 @@
+data,produto,categoria,quantidade,preco,Total de Vendas
+01/02/2023,Pulseira onda,Pulseira,20.0,20.0,400.0
+01/10/2023,Pulseira rosa,Pulseira,30.0,20.0,600.0
+01/02/2023,Pulseira Borboleta,Pulseira,20.0,20.0,400.0
+02/02/2023,Anel coracao,Anel,10.0,30.0,300.0
+03/02/2023,Anel coracao,Anel,10.0,30.0,300.0
+04/02/2023,Anel borboleta,Anel,15.0,30.0,450.0
+05/02/2023,Brinco trio onda,Brinco,10.0,50.0,500.0
+06/02/2023,Brinco trio pedra,Brinco,15.0,50.0,750.0
+05/07/2023,Brinco trio rosa,Brinco,5.0,50.0,250.0
+06/07/2023,Brinco Trio Verde,Brinco,20.0,50.0,1000.0
+07/07/2023,Brinco Trio perola,Brinco,10.0,50.0,500.0
+08/07/2023,Brinco luz,Brinco,15.0,50.0,750.0
+09/07/2023,Brinco pedras,Brinco,20.0,50.0,1000.0
+10/07/2023,Brinco1,Brinco,5.0,50.0,250.0
+05/08/2023,Brinco2,Brinco,10.0,50.0,500.0
+06/08/2023,Conjunto Azul,Conjunto,15.0,80.0,1200.0
+07/08/2023,Conjunto Rosa,Conjunto,20.0,80.0,1600.0
+08/08/2023,Conjunto Terco,Conjunto,5.0,80.0,400.0
+09/08/2023,Colar Familia,Colar,10.0,70.0,700.0
+10/08/2023,Colar Pedras,Colar,15.0,70.0,1050.0
+12/03/2023,Colar Liso,Colar,20.0,70.0,1400.0
+13/03/2023,Colar Colorido,Colar,5.0,70.0,350.0
+14/03/2023,Colar Familia,Colar,1.0,70.0,70.0
+15/03/2023,Brinco1,Brinco,4.0,50.0,200.0
+16/03/2023,Anel coracao,Anel,9.0,30.0,270.0
+15/04/2023,Colar Pedras,Colar,1.0,70.0,70.0
+16/04/2023,Anel coracao,Anel,9.0,30.0,270.0
+17/04/2023,Conjunto Terco,Conjunto,4.0,80.0,320.0
+18/04/2023,Colar Pedras,Colar,14.0,70.0,980.0
+19/04/2023,Colar Familia,Colar,9.0,70.0,630.0
+20/04/2023,Brinco luz,Brinco,14.0,50.0,700.0
+21/04/2023,Brinco Trio perola,Brinco,9.0,50.0,450.0
+01/01/2023,Brinco1,Brinco,3.0,50.0,150.0
+02/01/2023,Anel coracao,Anel,9.0,30.0,270.0
+03/01/2023,Conjunto Terco,Conjunto,4.0,80.0,320.0
+04/01/2023,Brinco luz,Brinco,12.0,50.0,600.0
+05/01/2023,Pulseira onda,Pulseira,19.0,20.0,380.0
+06/01/2023,Brinco luz,Brinco,10.0,50.0,500.0
+20/09/2023,Conjunto Azul,Conjunto,14.0,80.0,1120.0
+21/09/2023,Brinco luz,Brinco,13.0,50.0,650.0
+22/09/2023,Brinco Trio perola,Brinco,8.0,50.0,400.0
+23/09/2023,Brinco2,Brinco,3.0,50.0,150.0
+24/09/2023,Conjunto Terco,Conjunto,3.0,80.0,240.0
+15/10/2023,Brinco Trio perola,Brinco,8.0,50.0,400.0
+16/10/2023,Pulseira onda,Pulseira,15.0,20.0,300.0
+17/10/2023,Anel coracao,Anel,7.0,30.0,210.0
+18/10/2023,Brinco luz,Brinco,9.0,50.0,450.0
+19/10/2023,Colar Familia,Colar,7.0,70.0,490.0
+20/10/2023,Colar Pedras,Colar,14.0,70.0,980.0
+21/10/2023,Conjunto Azul,Conjunto,13.0,80.0,1040.0
+18/11/2023,Brinco luz,Brinco,11.0,50.0,550.0
+19/11/2023,Brinco luz,Brinco,10.0,50.0,500.0
+20/11/2023,Brinco Trio perola,Brinco,,50.0,
+21/11/2023,Pulseira onda,Pulseira,,20.0,
+22/11/2023,Brinco luz,Brinco,9.0,50.0,450.0
+23/11/2023,Brinco Trio perola,Brinco,7.0,50.0,350.0
+24/11/2023,Conjunto Terco,Conjunto,,80.0,
+25/11/2023,Brinco Trio perola,Brinco,6.0,50.0,300.0
+20/12/2023,Brinco1,Brinco,2.0,50.0,100.0
+21/12/2023,Anel coracao,Anel,8.0,30.0,240.0
+22/12/2023,Conjunto Azul,Conjunto,12.0,80.0,960.0
+23/12/2023,Colar Pedras,Colar,12.0,70.0,840.0
+24/12/2023,Brinco Trio perola,Brinco,2.0,50.0,100.0
+25/12/2023,Brinco2,Brinco,6.0,50.0,300.0
+26/12/2023,Colar Pedras,Colar,13.0,70.0,910.0
+27/12/2023,Colar Familia,Colar,,70.0,
+20/01/2023,Brinco luz,Brinco,8.0,50.0,400.0
+21/01/2023,Conjunto Terco,Conjunto,2.0,80.0,160.0
+22/01/2023,Brinco2,Brinco,9.0,50.0,450.0
+23/01/2023,Colar Pedras,Colar,11.0,70.0,770.0
+24/01/2023,Brinco luz,Brinco,7.0,50.0,350.0
+25/01/2023,Brinco Trio perola,Brinco,8.0,50.0,400.0
+05/09/2023,Anel coracao,Anel,10.0,30.0,300.0
+06/09/2023,Colar Pedras,Colar,10.0,70.0,700.0
+07/09/2023,Brinco Trio perola,Brinco,5.0,50.0,250.0
+08/09/2023,Colar Familia,Colar,5.0,70.0,350.0
+09/09/2023,Brinco luz,Brinco,6.0,50.0,300.0
+10/09/2023,Pulseira onda,Pulseira,2.0,20.0,40.0
+09/08/2023,Colar Colorido,Colar,4.0,70.0,280.0
+10/08/2023,Colar Colorido,Colar,3.0,70.0,210.0
+11/08/2023,Pulseira Borboleta,Pulseira,1.0,20.0,20.0
+12/08/2023,Brinco Trio Verde,Brinco,,50.0,
+13/08/2023,Colar Colorido,Colar,2.0,70.0,140.0
+14/08/2023,Conjunto Terco,Conjunto,,80.0,
+15/08/2023,Brinco Trio perola,Brinco,3.0,50.0,150.0
+08/04/2023,Brinco luz,Brinco,5.0,50.0,250.0
+09/04/2023,Pulseira Borboleta,Pulseira,3.0,20.0,60.0
+10/04/2023,Colar Colorido,Colar,,70.0,
+11/04/2023,Brinco Trio Verde,Brinco,18.0,50.0,900.0
+12/04/2023,Pulseira onda,Pulseira,18.0,20.0,360.0
+13/04/2023,Colar Colorido,Colar,,70.0,
+09/06/2023,Pulseira Borboleta,Pulseira,3.0,20.0,60.0
+10/06/2023,Pulseira onda,Pulseira,14.0,20.0,280.0
+11/06/2023,Colar Colorido,Colar,1.0,70.0,70.0
+12/06/2023,Brinco Trio perola,Brinco,4.0,50.0,200.0
+13/06/2023,Brinco Trio Verde,Brinco,19.0,50.0,950.0
+14/06/2023,Brinco Trio perola,Brinco,3.0,50.0,150.0
+15/06/2023,Pulseira onda,Pulseira,17.0,20.0,340.0
+16/06/2023,Pulseira onda,Pulseira,16.0,20.0,320.0
+16/06/2023,Brinco Trio perola,Brinco,20.0,15.0,300.0
+01/01/2024,Brinco luz,Brinco,8.0,50.0,400.0
+02/01/2024,Colar Pedras,Colar,14.0,70.0,980.0
+03/01/2024,Anel coracao,Anel,10.0,30.0,300.0
+04/01/2024,Brinco1,Brinco,5.0,50.0,250.0
+05/01/2024,Conjunto Azul,Conjunto,7.0,80.0,560.0
+06/01/2024,Pulseira onda,Pulseira,12.0,20.0,240.0
+07/01/2024,Brinco Trio perola,Brinco,11.0,50.0,550.0
+08/01/2024,Conjunto Terco,Conjunto,3.0,80.0,240.0
+09/01/2024,Brinco Trio Verde,Brinco,6.0,50.0,300.0
+10/01/2024,Colar Familia,Colar,9.0,70.0,630.0
+11/01/2024,Colar Pedras,Colar,13.0,70.0,910.0
+12/01/2024,Pulseira Borboleta,Pulseira,15.0,20.0,300.0
+13/01/2024,Anel coracao,Anel,11.0,30.0,330.0
+14/01/2024,Brinco luz,Brinco,7.0,50.0,350.0
+15/01/2024,Colar Colorido,Colar,2.0,70.0,140.0
+16/01/2024,Brinco2,Brinco,9.0,50.0,450.0
+17/01/2024,Colar Familia,Colar,10.0,70.0,700.0
+18/01/2024,Pulseira onda,Pulseira,6.0,20.0,120.0
+19/01/2024,Brinco Trio perola,Brinco,4.0,50.0,200.0
+20/01/2024,Anel coracao,Anel,12.0,30.0,360.0
+21/01/2024,Brinco Trio Verde,Brinco,10.0,50.0,500.0
+22/01/2024,Conjunto Terco,Conjunto,5.0,80.0,400.0
+23/01/2024,Pulseira onda,Pulseira,9.0,20.0,180.0
+24/01/2024,Colar Pedras,Colar,15.0,70.0,1050.0
+25/01/2024,Brinco1,Brinco,3.0,50.0,150.0
+26/01/2024,Colar Familia,Colar,6.0,70.0,420.0
+27/01/2024,Conjunto Azul,Conjunto,8.0,80.0,640.0
+28/01/2024,Brinco luz,Brinco,13.0,50.0,650.0
+29/01/2024,Colar Colorido,Colar,7.0,70.0,490.0
+30/01/2024,Pulseira Borboleta,Pulseira,20.0,20.0,400.0
+31/01/2024,Anel coracao,Anel,10.0,30.0,300.0
+01/02/2024,Brinco Trio perola,Brinco,9.0,50.0,450.0
+02/02/2024,Colar Pedras,Colar,5.0,70.0,350.0
+03/02/2024,Brinco Trio Verde,Brinco,16.0,50.0,800.0
+04/02/2024,Conjunto Terco,Conjunto,11.0,80.0,880.0
+05/02/2024,Brinco2,Brinco,8.0,50.0,400.0
+06/02/2024,Pulseira onda,Pulseira,6.0,20.0,120.0
+07/02/2024,Colar Familia,Colar,12.0,70.0,840.0
+08/02/2024,Brinco luz,Brinco,7.0,50.0,350.0
+09/02/2024,Anel coracao,Anel,13.0,30.0,390.0
+11/05/2024,Brinco Trio perola,Brinco,8.0,50.0,400.0
+23/03/2024,Anel coracao,Anel,12.0,30.0,360.0
+15/07/2024,Colar Pedras,Colar,13.0,70.0,910.0
+28/09/2024,Brinco2,Brinco,9.0,50.0,450.0
+04/02/2024,Conjunto Azul,Conjunto,7.0,80.0,560.0
+09/06/2024,Brinco Trio Verde,Brinco,6.0,50.0,300.0
+12/04/2024,Colar Familia,Colar,8.0,70.0,560.0
+19/11/2024,Brinco1,Brinco,4.0,50.0,200.0
+07/07/2023,Colar Colorido,Colar,5.0,70.0,350.0
+21/05/2024,Anel coracao,Anel,14.0,30.0,420.0
+03/09/2023,Pulseira Borboleta,Pulseira,7.0,20.0,140.0
+26/06/2024,Brinco luz,Brinco,10.0,50.0,500.0
+14/12/2023,Colar Pedras,Colar,6.0,70.0,420.0
+29/03/2024,Conjunto Terco,Conjunto,5.0,80.0,400.0
+22/08/2024,Pulseira onda,Pulseira,8.0,20.0,160.0
+09/10/2024,Colar Familia,Colar,12.0,70.0,840.0
+11/02/2024,Brinco Trio Verde,Brinco,9.0,50.0,450.0
+18/08/2024,Conjunto Azul,Conjunto,11.0,80.0,880.0
+24/07/2024,Pulseira Borboleta,Pulseira,10.0,20.0,200.0
+30/10/2023,Brinco Trio perola,Brinco,5.0,50.0,250.0
+12/02/2024,Brinco luz,Brinco,,50.0,
+17/03/2024,Colar Pedras,Colar,,70.0,
+01/08/2024,Anel coracao,Anel,9.0,30.0,270.0
+22/06/2024,Conjunto Terco,Conjunto,8.0,80.0,640.0
+30/09/2024,Brinco Trio Verde,Brinco,,50.0,
+05/10/2023,Colar Familia,Colar,,70.0,
+21/01/2024,Brinco1,Brinco,6.0,50.0,300.0
+13/03/2024,Conjunto Azul,Conjunto,5.0,80.0,400.0
+29/05/2024,Pulseira onda,Pulseira,7.0,20.0,140.0
+10/07/2023,Brinco Trio perola,Brinco,10.0,50.0,500.0
+18/09/2024,Colar Colorido,Colar,,70.0,
+20/03/2024,Brinco luz,Brinco,9.0,50.0,450.0
+12/10/2024,Colar Pedras,Colar,,70.0,
+08/11/2024,Conjunto Terco,Conjunto,4.0,80.0,320.0
+27/04/2024,Brinco2,Brinco,,50.0,
+25/07/2024,Anel coracao,Anel,,30.0,
+11/06/2023,Brinco Trio Verde,Brinco,8.0,50.0,400.0
+16/05/2024,Colar Familia,Colar,10.0,70.0,700.0
+01/12/2023,Brinco Trio perola,Brinco,7.0,50.0,350.0
+20/04/2024,Pulseira Borboleta,Pulseira,,20.0,
+17/01/2024,Brinco1,Brinco,4.0,50.0,200.0
+09/02/2024,Anel coracao,Anel,,30.0,
+26/08/2024,Colar Pedras,Colar,10.0,70.0,700.0
+12/11/2023,Conjunto Azul,Conjunto,7.0,80.0,560.0
+03/05/2024,Brinco Trio Verde,Brinco,,50.0,
+28/04/2024,Pulseira onda,Pulseira,5.0,20.0,100.0
+15/09/2024,Brinco Trio perola,Brinco,9.0,50.0,450.0
+07/06/2024,Colar Familia,Colar,4.0,70.0,280.0
+01/07/2024,Anel coracao,Anel,10.0,30.0,300.0
+21/10/2023,Brinco luz,Brinco,,50.0,
+22/12/2023,Conjunto Terco,Conjunto,11.0,80.0,880.0
+02/04/2024,Brinco2,Brinco,6.0,50.0,300.0
+30/11/2024,Pulseira Borboleta,Pulseira,9.0,20.0,180.0
+16/02/2024,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+03/06/2024,Conjunto Azul,Conjunto,5.0,80.0,400.0
+18/10/2024,Colar Pedras,Colar,,70.0,
+14/05/2024,Pulseira onda,Pulseira,,20.0,
+29/01/2024,Brinco Trio perola,Brinco,8.0,50.0,400.0
+04/09/2024,Anel coracao,Anel,10.0,30.0,300.0
+19/03/2024,Colar Familia,Colar,7.0,70.0,490.0
+23/05/2024,Brinco1,Brinco,5.0,50.0,250.0
+12/10/2023,Conjunto Terco,Conjunto,6.0,80.0,480.0
+15/04/2024,Colar Pedras,Colar,,70.0,
+22/07/2024,Brinco Trio perola,Brinco,10.0,50.0,500.0
+08/08/2024,Pulseira Borboleta,Pulseira,,20.0,
+19/11/2024,Brinco Trio Verde,Brinco,,50.0,
+25/05/2024,Colar Familia,Colar,8.0,70.0,560.0
+17/09/2024,Anel coracao,Anel,9.0,30.0,270.0
+04/02/2024,Conjunto Azul,Conjunto,5.0,80.0,400.0
+13/03/2024,Brinco luz,Brinco,12.0,50.0,600.0
+16/06/2024,Colar Pedras,Colar,11.0,70.0,770.0
+30/08/2024,Anel coracao,Anel,,30.0,
+09/01/2024,Conjunto Terco,Conjunto,8.0,80.0,640.0
+03/10/2024,Brinco2,Brinco,,50.0,
+29/04/2024,Colar Familia,Colar,7.0,70.0,490.0
+14/11/2024,Brinco Trio Verde,Brinco,10.0,50.0,500.0
+19/06/2024,Anel coracao,Anel,,30.0,
+05/07/2024,Brinco luz,Brinco,6.0,50.0,300.0
+01/09/2024,Colar Pedras,Colar,10.0,70.0,700.0
+28/02/2024,Brinco1,Brinco,5.0,50.0,250.0
+03/05/2024,Conjunto Terco,Conjunto,,80.0,
+18/04/2024,Brinco Trio Verde,Brinco,10.0,50.0,500.0
+21/07/2024,Brinco2,Brinco,6.0,50.0,300.0
+06/06/2024,Pulseira Borboleta,Pulseira,8.0,20.0,160.0
+14/05/2024,Brinco1,Brinco,7.0,50.0,350.0
+26/12/2023,Colar Familia,Colar,5.0,70.0,350.0
+08/11/2024,Brinco luz,Brinco,4.0,50.0,200.0
+10/03/2024,Anel coracao,Anel,12.0,30.0,360.0
+15/09/2024,Colar Pedras,Colar,9.0,70.0,630.0
+19/08/2024,Brinco Trio perola,Brinco,,50.0,
+02/10/2024,Conjunto Azul,Conjunto,,80.0,
+10/12/2024,Pulseira onda,Pulseira,11.0,20.0,220.0
+17/06/2024,Brinco Trio Verde,Brinco,9.0,50.0,450.0
+26/01/2024,Colar Familia,Colar,8.0,70.0,560.0
+19/03/2024,Brinco luz,Brinco,6.0,50.0,300.0
+24/02/2024,Anel coracao,Anel,7.0,30.0,210.0
+15/08/2024,Conjunto Terco,Conjunto,4.0,80.0,320.0
+27/10/2024,Colar Pedras,Colar,,70.0,
+23/09/2024,Brinco1,Brinco,10.0,50.0,500.0
+01/04/2024,Conjunto Azul,Conjunto,,80.0,
+29/01/2024,Brinco Trio Verde,Brinco,8.0,50.0,400.0
+12/06/2024,Anel coracao,Anel,6.0,30.0,180.0
+05/04/2024,Colar Pedras,Colar,11.0,70.0,770.0
+17/12/2024,Brinco2,Brinco,,50.0,
+20/08/2024,Conjunto Terco,Conjunto,7.0,80.0,560.0
+02/06/2024,Brinco luz,Brinco,12.0,50.0,600.0
+21/07/2024,Conjunto Azul,Conjunto,9.0,80.0,720.0
+25/08/2024,Brinco Trio Verde,Brinco,5.0,50.0,250.0
+29/10/2024,Colar Familia,Colar,6.0,70.0,420.0
+03/03/2024,Brinco1,Brinco,4.0,50.0,200.0
+18/09/2024,Conjunto Terco,Conjunto,,80.0,
+05/10/2024,Brinco2,Brinco,8.0,50.0,400.0
+15/11/2024,Anel coracao,Anel,7.0,30.0,210.0
+09/12/2024,Colar Pedras,Colar,9.0,70.0,630.0
+04/06/2024,Brinco Trio Verde,Brinco,,50.0,
+13/05/2024,Conjunto Azul,Conjunto,10.0,80.0,800.0
+21/04/2024,Pulseira Borboleta,Pulseira,6.0,20.0,120.0
+02/07/2024,Brinco Trio perola,Brinco,7.0,50.0,350.0
+26/02/2024,Colar Familia,Colar,,70.0,
+03/05/2024,Conjunto Terco,Conjunto,8.0,80.0,640.0
+18/11/2024,Brinco luz,Brinco,9.0,50.0,450.0
+21/10/2024,Colar Pedras,Colar,6.0,70.0,420.0
+12/04/2024,Anel coracao,Anel,,30.0,
+15/09/2024,Brinco2,Brinco,5.0,50.0,250.0
+06/06/2024,Colar Familia,Colar,,70.0,
+28/03/2024,Brinco Trio Verde,Brinco,9.0,50.0,450.0
+17/10/2024,Pulseira onda,Pulseira,,20.0,
+01/01/2024,Conjunto Terco,Conjunto,6.0,80.0,480.0
+22/04/2024,Brinco luz,Brinco,,50.0,
+10/11/2024,Colar Familia,Colar,7.0,70.0,490.0
+03/02/2024,Anel coracao,Anel,10.0,30.0,300.0
+13/07/2024,Brinco1,Brinco,9.0,50.0,450.0
+22/08/2024,Colar Pedras,Colar,5.0,70.0,350.0
+17/06/2024,Brinco2,Brinco,,50.0,
+26/07/2024,Conjunto Azul,Conjunto,,80.0,
+14/09/2024,Brinco Trio perola,Brinco,8.0,50.0,400.0
+06/08/2024,Colar Familia,Colar,,70.0,
+18/12/2024,Brinco luz,Brinco,,50.0,
+04/11/2024,Anel coracao,Anel,,30.0,
+20/09/2024,Colar Pedras,Colar,,70.0,
+09/03/2024,Brinco1,Brinco,12.0,50.0,600.0
+11/12/2024,Conjunto Terco,Conjunto,9.0,80.0,720.0
+30/01/2024,Brinco2,Brinco,10.0,50.0,500.0
+17/05/2024,Pulseira onda,Pulseira,,20.0,
+13/02/2024,Conjunto Azul,Conjunto,5.0,80.0,400.0
+06/11/2024,Brinco Trio Verde,Brinco,,50.0,
+02/10/2024,Colar Familia,Colar,7.0,70.0,490.0
+19/07/2024,Brinco luz,Brinco,,50.0,
+10/04/2024,Conjunto Terco,Conjunto,,80.0,
+01/08/2024,Brinco1,Brinco,9.0,50.0,450.0
+22/06/2024,Anel coracao,Anel,8.0,30.0,240.0
+17/02/2024,Brinco Trio Verde,Brinco,,50.0,
+04/09/2024,Colar Pedras,Colar,,70.0,
+19/10/2024,Brinco luz,Brinco,7.0,50.0,350.0
+01/12/2024,Conjunto Azul,Conjunto,,80.0,
+05/04/2024,Colar Familia,Colar,8.0,70.0,560.0
+16/08/2024,Brinco2,Brinco,10.0,50.0,500.0
+26/02/2024,Conjunto Terco,Conjunto,,80.0,
+09/11/2024,Pulseira Borboleta,Pulseira,6.0,20.0,120.0
+12/03/2024,Brinco Trio perola,Brinco,,50.0,
+29/06/2024,Colar Pedras,Colar,5.0,70.0,350.0
+11/01/2024,Conjunto Azul,Conjunto,9.0,80.0,720.0
+20/05/2024,Anel coracao,Anel,7.0,30.0,210.0
+13/10/2024,Brinco Trio Verde,Brinco,5.0,50.0,250.0
+09/02/2024,Colar Familia,Colar,,70.0,
+22/04/2024,Pulseira Borboleta,Pulseira,,20.0,
+14/07/2024,Brinco1,Brinco,6.0,50.0,300.0
+01/03/2024,Anel coracao,Anel,8.0,30.0,240.0
+25/08/2024,Brinco Trio perola,Brinco,10.0,50.0,500.0
+16/01/2024,Conjunto Terco,Conjunto,7.0,80.0,560.0
+05/05/2024,Brinco luz,Brinco,9.0,50.0,450.0
+28/02/2024,Colar Familia,Colar,6.0,70.0,420.0
+18/10/2024,Conjunto Azul,Conjunto,,80.0,
+03/07/2024,Brinco2,Brinco,5.0,50.0,250.0
+17/11/2024,Anel coracao,Anel,7.0,30.0,210.0
+09/08/2024,Colar Pedras,Colar,,70.0,
+21/01/2024,Brinco Trio Verde,Brinco,8.0,50.0,400.0
+04/05/2024,Brinco luz,Brinco,12.0,50.0,600.0
+15/02/2024,Conjunto Terco,Conjunto,,80.0,
+22/11/2024,Brinco1,Brinco,,50.0,
+10/06/2024,Colar Familia,Colar,9.0,70.0,630.0
+17/04/2024,Brinco Trio Verde,Brinco,6.0,50.0,300.0
+04/03/2024,Anel coracao,Anel,9.0,30.0,270.0
+08/07/2024,Colar Pedras,Colar,8.0,70.0,560.0
+26/10/2024,Brinco2,Brinco,,50.0,
+07/04/2024,Conjunto Azul,Conjunto,5.0,80.0,400.0
+20/07/2024,Brinco1,Brinco,7.0,50.0,350.0
+01/10/2024,Colar Familia,Colar,6.0,70.0,420.0
+11/09/2024,Anel coracao,Anel,,30.0,
+18/01/2024,Brinco Trio Verde,Brinco,10.0,50.0,500.0
+02/06/2024,Conjunto Terco,Conjunto,,80.0,
+15/03/2024,Colar Pedras,Colar,,70.0,
+28/05/2024,Brinco2,Brinco,7.0,50.0,350.0
+25/09/2024,Brinco luz,Brinco,8.0,50.0,400.0
+11/10/2024,Anel coracao,Anel,9.0,30.0,270.0
+14/07/2024,Conjunto Azul,Conjunto,10.0,80.0,800.0
+19/03/2024,Colar Familia,Colar,7.0,70.0,490.0
+22/12/2024,Brinco1,Brinco,,50.0,
+08/09/2024,Brinco Trio Verde,Brinco,6.0,50.0,300.0
+23/06/2024,Anel coracao,Anel,5.0,30.0,150.0
+01/07/2024,Brinco luz,Brinco,8.0,50.0,400.0
+17/08/2024,Conjunto Azul,Conjunto,9.0,80.0,720.0
+03/11/2024,Brinco2,Brinco,5.0,50.0,250.0
+20/04/2024,Colar Pedras,Colar,,70.0,
+13/09/2024,Brinco1,Brinco,7.0,50.0,350.0
+08/10/2024,Anel coracao,Anel,6.0,30.0,180.0
+14/05/2024,Conjunto Terco,Conjunto,8.0,80.0,640.0
+11/06/2024,Colar Familia,Colar,,70.0,
+28/03/2024,Brinco Trio Verde,Brinco,9.0,50.0,450.0
+25/01/2024,Pulseira onda,Pulseira,7.0,20.0,140.0
+22/09/2024,Colar Pedras,Colar,6.0,70.0,420.0
+03/08/2024,Brinco luz,Brinco,,50.0,
+10/04/2024,Conjunto Azul,Conjunto,,80.0,
+09/12/2024,Anel coracao,Anel,8.0,30.0,240.0
+02/09/2024,Brinco Trio Verde,Brinco,5.0,50.0,250.0
+13/03/2024,Colar Familia,Colar,9.0,70.0,630.0
+29/11/2024,Brinco1,Brinco,,50.0,
+06/04/2024,Brinco Trio perola,Brinco,8.0,50.0,400.0
+21/05/2024,Conjunto Terco,Conjunto,7.0,80.0,560.0
+28/02/2024,Brinco luz,Brinco,10.0,50.0,500.0
+12/08/2024,Colar Pedras,Colar,6.0,70.0,420.0
+14/09/2024,Brinco1,Brinco,9.0,50.0,450.0
+18/05/2024,Colar Familia,Colar,,70.0,
+09/06/2024,Brinco Trio Verde,Brinco,,50.0,
+25/11/2024,Conjunto Azul,Conjunto,5.0,80.0,400.0
+02/04/2024,Anel coracao,Anel,8.0,30.0,240.0
+07/08/2024,Brinco luz,Brinco,6.0,50.0,300.0
+29/06/2024,Conjunto Terco,Conjunto,7.0,80.0,560.0
+17/01/2024,Colar Pedras,Colar,5.0,70.0,350.0
+21/02/2024,Brinco2,Brinco,8.0,50.0,400.0
+09/07/2024,Anel coracao,Anel,9.0,30.0,270.0
+02/11/2024,Colar Familia,Colar,,70.0,
+14/03/2024,Brinco Trio Verde,Brinco,,50.0,
+17/05/2024,Conjunto Azul,Conjunto,9.0,80.0,720.0
+01/06/2024,Brinco luz,Brinco,6.0,50.0,300.0
+13/07/2024,Colar Pedras,Colar,,70.0,
+27/09/2024,Brinco1,Brinco,7.0,50.0,350.0
+12/10/2024,Anel coracao,Anel,8.0,30.0,240.0
+15/12/2024,Brinco Trio Verde,Brinco,,50.0,
+10/05/2024,Colar Familia,Colar,5.0,70.0,350.0
+23/06/2024,Conjunto Terco,Conjunto,,80.0,
+07/10/2024,Brinco1,Brinco,,50.0,
+25/08/2024,Brinco Trio perola,Brinco,,50.0,
+22/11/2024,Anel coracao,Anel,9.0,30.0,270.0
+02/08/2024,Colar Pedras,Colar,8.0,70.0,560.0
+15/06/2024,Brinco luz,Brinco,7.0,50.0,350.0
+03/04/2024,Conjunto Azul,Conjunto,10.0,80.0,800.0
+17/03/2024,Brinco2,Brinco,9.0,50.0,450.0
+21/01/2024,Colar Familia,Colar,7.0,70.0,490.0
+11/12/2024,Brinco Trio Verde,Brinco,6.0,50.0,300.0
+10/10/2023,Brinco luz,Brinco,7.0,50.0,350.0
+25/11/2023,Anel coracao,Anel,6.0,30.0,180.0
+15/02/2023,Colar Pedras,Colar,8.0,70.0,560.0
+28/07/2023,Brinco Trio Verde,Brinco,,50.0,
+13/05/2023,Brinco1,Brinco,,50.0,
+10/12/2023,Conjunto Azul,Conjunto,7.0,80.0,560.0
+22/03/2023,Colar Familia,Colar,10.0,70.0,700.0
+29/08/2023,Anel coracao,Anel,9.0,30.0,270.0
+16/06/2023,Brinco Trio perola,Brinco,6.0,50.0,300.0
+04/10/2023,Colar Familia,Colar,5.0,70.0,350.0
+15/01/2023,Conjunto Terco,Conjunto,8.0,80.0,640.0
+03/06/2023,Brinco luz,Brinco,12.0,50.0,600.0
+30/12/2023,Brinco1,Brinco,,50.0,
+10/11/2023,Brinco Trio Verde,Brinco,5.0,50.0,250.0
+06/07/2023,Colar Pedras,Colar,7.0,70.0,490.0
+18/05/2023,Anel coracao,Anel,6.0,30.0,180.0
+21/09/2023,Conjunto Terco,Conjunto,10.0,80.0,800.0
+17/02/2023,Brinco1,Brinco,8.0,50.0,400.0
+04/04/2023,Colar Familia,Colar,,70.0,
+01/09/2023,Brinco luz,Brinco,10.0,50.0,500.0
+22/07/2023,Colar Pedras,Colar,5.0,70.0,350.0
+02/08/2023,Conjunto Azul,Conjunto,9.0,80.0,720.0
+11/11/2023,Brinco Trio Verde,Brinco,,50.0,
+19/05/2023,Anel coracao,Anel,5.0,30.0,150.0
+23/06/2023,Brinco luz,Brinco,8.0,50.0,400.0
+05/10/2023,Conjunto Terco,Conjunto,,80.0,
+27/02/2023,Pulseira Borboleta,Pulseira,6.0,20.0,120.0
+13/08/2023,Colar Familia,Colar,6.0,70.0,420.0
+14/11/2023,Brinco Trio Verde,Brinco,4.0,50.0,200.0
+03/01/2023,Anel coracao,Anel,10.0,30.0,300.0
+26/07/2023,Brinco luz,Brinco,7.0,50.0,350.0
+17/09/2023,Colar Familia,Colar,,70.0,
+11/03/2023,Brinco1,Brinco,,50.0,
+02/05/2023,Anel coracao,Anel,9.0,30.0,270.0
+13/08/2023,Brinco2,Brinco,6.0,50.0,300.0
+29/01/2023,Brinco Trio Verde,Brinco,10.0,50.0,500.0
+07/09/2023,Conjunto Azul,Conjunto,5.0,80.0,400.0
+24/12/2023,Brinco1,Brinco,8.0,50.0,400.0
+30/04/2023,Conjunto Terco,Conjunto,7.0,80.0,560.0
+12/02/2023,Colar Pedras,Colar,5.0,70.0,350.0
+16/11/2023,Anel coracao,Anel,8.0,30.0,240.0
+28/03/2023,Brinco Trio perola,Brinco,9.0,50.0,450.0
+23/06/2023,Brinco luz,Brinco,,50.0,
+18/08/2023,Conjunto Azul,Conjunto,8.0,80.0,640.0
+25/10/2023,Colar Familia,Colar,6.0,70.0,420.0
+07/03/2023,Brinco2,Brinco,7.0,50.0,350.0
+06/05/2023,Anel coracao,Anel,,30.0,
+13/09/2023,Brinco Trio Verde,Brinco,,50.0,
+30/08/2023,Colar Pedras,Colar,9.0,70.0,630.0
+18/02/2023,Brinco luz,Brinco,8.0,50.0,400.0
+01/12/2023,Colar Familia,Colar,,70.0,
+15/03/2023,Brinco1,Brinco,7.0,50.0,350.0
+09/05/2023,Conjunto Terco,Conjunto,9.0,80.0,720.0
+30/07/2023,Brinco Trio Verde,Brinco,,50.0,
+12/04/2023,Anel coracao,Anel,8.0,30.0,240.0
+20/10/2023,Brinco luz,Brinco,10.0,50.0,500.0
+28/09/2023,Colar Pedras,Colar,,70.0,
+02/07/2023,Conjunto Azul,Conjunto,7.0,80.0,560.0
+16/10/2023,Brinco1,Brinco,5.0,50.0,250.0
+09/06/2023,Colar Familia,Colar,7.0,70.0,490.0
+13/01/2023,Brinco2,Brinco,6.0,50.0,300.0
+22/03/2023,Brinco luz,Brinco,9.0,50.0,450.0
+05/11/2023,Anel coracao,Anel,7.0,30.0,210.0
+11/02/2023,Colar Familia,Colar,9.0,70.0,630.0
+08/09/2023,Brinco Trio Verde,Brinco,8.0,50.0,400.0
+21/04/2023,Colar Pedras,Colar,6.0,70.0,420.0
+01/10/2023,Brinco luz,Brinco,,50.0,
+17/05/2023,Anel coracao,Anel,,30.0,
+25/06/2023,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+09/08/2023,Conjunto Terco,Conjunto,9.0,80.0,720.0
+11/04/2023,Brinco1,Brinco,6.0,50.0,300.0
+19/07/2023,Brinco luz,Brinco,10.0,50.0,500.0
+02/12/2023,Colar Familia,Colar,,70.0,
+07/06/2023,Anel coracao,Anel,9.0,30.0,270.0
+15/09/2023,Conjunto Azul,Conjunto,10.0,80.0,800.0
+29/10/2023,Brinco Trio Verde,Brinco,,50.0,
+03/08/2023,Colar Pedras,Colar,8.0,70.0,560.0
+11/12/2023,Anel coracao,Anel,7.0,30.0,210.0
+19/01/2023,Brinco1,Brinco,8.0,50.0,400.0
+05/11/2023,Conjunto Terco,Conjunto,,80.0,
+08/03/2023,Colar Familia,Colar,6.0,70.0,420.0
+01/04/2023,Brinco Trio Verde,Brinco,,50.0,
+30/08/2023,Colar Pedras,Colar,,70.0,
+16/02/2023,Brinco luz,Brinco,10.0,50.0,500.0
+12/07/2023,Brinco1,Brinco,9.0,50.0,450.0
+22/09/2023,Conjunto Azul,Conjunto,,80.0,
+27/03/2023,Brinco2,Brinco,8.0,50.0,400.0
+03/05/2023,Anel coracao,Anel,7.0,30.0,210.0
+12/06/2023,Colar Familia,Colar,5.0,70.0,350.0
+04/09/2023,Brinco Trio Verde,Brinco,9.0,50.0,450.0
+11/05/2023,Conjunto Terco,Conjunto,6.0,80.0,480.0
+22/02/2023,Brinco luz,Brinco,,50.0,
+07/10/2023,Anel coracao,Anel,8.0,30.0,240.0
+14/04/2023,Colar Pedras,Colar,10.0,70.0,700.0
+27/05/2023,Brinco1,Brinco,,50.0,
+08/09/2023,Conjunto Azul,Conjunto,,80.0,
+02/10/2023,Colar Familia,Colar,6.0,70.0,420.0
+11/06/2023,Brinco Trio Verde,Brinco,,50.0,
+22/08/2023,Brinco luz,Brinco,5.0,50.0,250.0
+14/11/2023,Anel coracao,Anel,,30.0,
+03/07/2023,Brinco luz,Brinco,,50.0,
+25/10/2023,Colar Familia,Colar,,70.0,
+08/05/2023,Anel coracao,Anel,10.0,30.0,300.0
+19/04/2023,Brinco1,Brinco,9.0,50.0,450.0
+14/06/2023,Colar Pedras,Colar,7.0,70.0,490.0
+20/09/2023,Brinco Trio Verde,Brinco,6.0,50.0,300.0
+27/04/2023,Conjunto Terco,Conjunto,9.0,80.0,720.0
+13/02/2023,Anel coracao,Anel,8.0,30.0,240.0
+16/10/2023,Brinco2,Brinco,6.0,50.0,300.0
+29/12/2023,Colar Familia,Colar,,70.0,
+06/08/2023,Conjunto Azul,Conjunto,,80.0,
+28/02/2023,Brinco luz,Brinco,10.0,50.0,500.0
+12/11/2023,Anel coracao,Anel,9.0,30.0,270.0
+23/05/2023,Brinco Trio Verde,Brinco,8.0,50.0,400.0
+17/03/2023,Colar Pedras,Colar,10.0,70.0,700.0
+09/12/2023,Brinco1,Brinco,7.0,50.0,350.0
+26/07/2023,Colar Familia,Colar,,70.0,
+04/05/2023,Brinco Trio Verde,Brinco,5.0,50.0,250.0
+18/09/2023,Conjunto Terco,Conjunto,6.0,80.0,480.0
+14/01/2023,Anel coracao,Anel,,30.0,
+06/03/2023,Brinco luz,Brinco,7.0,50.0,350.0
+28/04/2023,Colar Pedras,Colar,9.0,70.0,630.0
+25/08/2023,Conjunto Azul,Conjunto,9.0,80.0,720.0
+07/10/2023,Anel coracao,Anel,5.0,30.0,150.0
+19/07/2023,Brinco1,Brinco,10.0,50.0,500.0
+13/11/2023,Brinco luz,Brinco,,50.0,
+09/02/2023,Conjunto Terco,Conjunto,,80.0,
+22/03/2023,Colar Familia,Colar,,70.0,
+03/08/2023,Brinco Trio Verde,Brinco,9.0,50.0,450.0
+16/04/2023,Anel coracao,Anel,8.0,30.0,240.0
+19/08/2023,Brinco luz,Brinco,5.0,50.0,250.0
+17/12/2023,Colar Pedras,Colar,8.0,70.0,560.0
+30/05/2023,Conjunto Azul,Conjunto,8.0,80.0,640.0
+21/04/2023,Brinco1,Brinco,7.0,50.0,350.0
+24/01/2023,Brinco luz,Brinco,9.0,50.0,450.0
+02/12/2023,Brinco Trio Verde,Brinco,10.0,50.0,500.0
+28/11/2023,Anel coracao,Anel,9.0,30.0,270.0
+15/06/2023,Conjunto Terco,Conjunto,10.0,80.0,800.0
+25/09/2023,Brinco luz,Brinco,,50.0,
+04/11/2023,Anel coracao,Anel,,30.0,
+01/05/2023,Brinco Trio Verde,Brinco,6.0,50.0,300.0
+12/08/2023,Colar Familia,Colar,7.0,70.0,490.0
+16/03/2023,Brinco1,Brinco,5.0,50.0,250.0
+21/06/2023,Brinco luz,Brinco,9.0,50.0,450.0
+10/04/2023,Conjunto Azul,Conjunto,10.0,80.0,800.0
+09/01/2023,Colar Familia,Colar,,70.0,
+03/11/2023,Anel coracao,Anel,8.0,30.0,240.0
+22/05/2023,Brinco2,Brinco,,50.0,
+28/12/2023,Colar Pedras,Colar,10.0,70.0,700.0
+13/09/2023,Anel coracao,Anel,,30.0,
+15/08/2023,Brinco luz,Brinco,6.0,50.0,300.0
+28/09/2023,Anel coracao,Anel,7.0,30.0,210.0
+07/02/2023,Conjunto Azul,Conjunto,8.0,80.0,640.0
+30/06/2023,Colar Pedras,Colar,9.0,70.0,630.0
+17/10/2023,Brinco1,Brinco,,50.0,
+25/02/2023,Brinco Trio Verde,Brinco,10.0,50.0,500.0
+06/05/2023,Anel coracao,Anel,5.0,30.0,150.0
+13/10/2023,Conjunto Terco,Conjunto,9.0,80.0,720.0
+10/11/2023,Brinco luz,Brinco,8.0,50.0,400.0
+14/01/2023,Colar Familia,Colar,,70.0,
+17/05/2023,Conjunto Azul,Conjunto,8.0,80.0,640.0
+23/02/2023,Brinco1,Brinco,,50.0,
+18/04/2023,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+06/03/2023,Anel coracao,Anel,8.0,30.0,240.0
+12/07/2023,Colar Pedras,Colar,8.0,70.0,560.0
+14/12/2023,Brinco luz,Brinco,10.0,50.0,500.0
+05/06/2023,Colar Familia,Colar,,70.0,
+20/08/2023,Brinco1,Brinco,7.0,50.0,350.0
+09/04/2023,Anel coracao,Anel,9.0,30.0,270.0
+28/03/2023,Conjunto Azul,Conjunto,8.0,80.0,640.0
+01/11/2023,Brinco Trio Verde,Brinco,6.0,50.0,300.0
+13/12/2023,Colar Pedras,Colar,,70.0,
+21/01/2023,Brinco1,Brinco,6.0,50.0,300.0
+08/10/2023,Conjunto Terco,Conjunto,,80.0,
+26/03/2023,Anel coracao,Anel,,30.0,
+15/06/2023,Brinco luz,Brinco,,50.0,
+22/07/2023,Colar Familia,Colar,9.0,70.0,630.0
+27/09/2023,Anel coracao,Anel,5.0,30.0,150.0
+09/05/2023,Conjunto Azul,Conjunto,,80.0,
+06/07/2023,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+17/09/2023,Colar Pedras,Colar,7.0,70.0,490.0
+13/02/2023,Brinco luz,Brinco,6.0,50.0,300.0
+23/05/2023,Anel coracao,Anel,10.0,30.0,300.0
+29/12/2023,Conjunto Terco,Conjunto,7.0,80.0,560.0
+12/09/2023,Brinco1,Brinco,5.0,50.0,250.0
+16/10/2023,Brinco luz,Brinco,7.0,50.0,350.0
+06/08/2023,Conjunto Azul,Conjunto,6.0,80.0,480.0
+03/02/2023,Brinco Trio Verde,Brinco,,50.0,
+04/11/2023,Colar Familia,Colar,,70.0,
+18/01/2023,Anel coracao,Anel,8.0,30.0,240.0
+29/07/2023,Colar Pedras,Colar,8.0,70.0,560.0
+11/03/2023,Conjunto Azul,Conjunto,7.0,80.0,560.0
+19/04/2023,Brinco1,Brinco,9.0,50.0,450.0
+02/08/2023,Anel coracao,Anel,,30.0,
+27/01/2023,Brinco Trio Verde,Brinco,,50.0,
+18/12/2023,Colar Familia,Colar,7.0,70.0,490.0
+09/11/2023,Brinco luz,Brinco,9.0,50.0,450.0
+15/02/2023,Anel coracao,Anel,9.0,30.0,270.0
+06/07/2023,Colar Pedras,Colar,10.0,70.0,700.0
+23/10/2023,Brinco1,Brinco,7.0,50.0,350.0
+25/02/2023,Colar Familia,Colar,8.0,70.0,560.0
+29/10/2023,Brinco Trio Verde,Brinco,6.0,50.0,300.0
+03/07/2023,Brinco luz,Brinco,9.0,50.0,450.0
+15/06/2023,Conjunto Azul,Conjunto,8.0,80.0,640.0
+06/05/2023,Colar Pedras,Colar,10.0,70.0,700.0
+22/04/2023,Brinco luz,Brinco,10.0,50.0,500.0
+12/10/2023,Brinco1,Brinco,5.0,50.0,250.0
+21/08/2023,Anel coracao,Anel,6.0,30.0,180.0
+02/11/2023,Brinco luz,Brinco,8.0,50.0,400.0
+09/07/2023,Conjunto Terco,Conjunto,6.0,80.0,480.0
+03/01/2024,Colar Pedras,Colar,9.0,70.0,630.0
+27/11/2023,Brinco1,Brinco,9.0,50.0,450.0
+12/05/2023,Anel coracao,Anel,7.0,30.0,210.0
+28/02/2024,Conjunto Azul,Conjunto,,80.0,
+14/03/2023,Brinco Trio Verde,Brinco,9.0,50.0,450.0
+25/07/2023,Colar Familia,Colar,7.0,70.0,490.0
+17/05/2023,Brinco luz,Brinco,7.0,50.0,350.0
+19/03/2023,Colar Pedras,Colar,,70.0,
+02/12/2023,Anel coracao,Anel,10.0,30.0,300.0
+04/09/2023,Brinco1,Brinco,8.0,50.0,400.0
+15/05/2023,Conjunto Terco,Conjunto,6.0,80.0,480.0
+07/08/2023,Brinco luz,Brinco,,50.0,
+23/11/2023,Colar Familia,Colar,,70.0,
+29/01/2024,Brinco Trio Verde,Brinco,6.0,50.0,300.0
+19/04/2023,Anel coracao,Anel,5.0,30.0,150.0
+11/01/2024,Colar Pedras,Colar,7.0,70.0,490.0
+24/08/2023,Brinco1,Brinco,6.0,50.0,300.0
+05/10/2023,Anel coracao,Anel,9.0,30.0,270.0
+14/01/2024,Conjunto Azul,Conjunto,7.0,80.0,560.0
+06/04/2023,Brinco Trio Verde,Brinco,5.0,50.0,250.0
+22/07/2023,Colar Familia,Colar,10.0,70.0,700.0
+17/03/2023,Brinco1,Brinco,6.0,50.0,300.0
+23/06/2023,Conjunto Terco,Conjunto,9.0,80.0,720.0
+28/09/2023,Brinco Trio Verde,Brinco,,50.0,
+01/05/2023,Anel coracao,Anel,7.0,30.0,210.0
+03/08/2023,Colar Pedras,Colar,6.0,70.0,420.0
+11/12/2023,Brinco luz,Brinco,7.0,50.0,350.0
+19/10/2023,Brinco1,Brinco,9.0,50.0,450.0
+25/01/2024,Conjunto Azul,Conjunto,6.0,80.0,480.0
+04/03/2024,Brinco luz,Brinco,,50.0,
+18/05/2023,Anel coracao,Anel,8.0,30.0,240.0
+25/07/2023,Colar Pedras,Colar,,70.0,
+30/11/2023,Brinco1,Brinco,7.0,50.0,350.0
+02/05/2023,Conjunto Terco,Conjunto,,80.0,
+24/03/2023,Brinco Trio Verde,Brinco,10.0,50.0,500.0
+13/08/2023,Anel coracao,Anel,7.0,30.0,210.0
+20/07/2023,Brinco luz,Brinco,9.0,50.0,450.0
+09/12/2023,Conjunto Terco,Conjunto,9.0,80.0,720.0
+29/06/2023,Brinco1,Brinco,7.0,50.0,350.0
+21/03/2023,Anel coracao,Anel,,30.0,
+25/01/2024,Brinco1,Brinco,5.0,50.0,250.0
+12/09/2023,Anel coracao,Anel,9.0,30.0,270.0
+23/10/2023,Colar Pedras,Colar,6.0,70.0,420.0
+10/02/2024,Brinco Trio Verde,Brinco,8.0,50.0,400.0
+06/09/2023,Conjunto Azul,Conjunto,7.0,80.0,560.0
+18/04/2024,Brinco1,Brinco,6.0,50.0,300.0
+07/05/2023,Anel coracao,Anel,,30.0,
+21/02/2024,Conjunto Terco,Conjunto,10.0,80.0,800.0
+19/10/2023,Brinco luz,Brinco,7.0,50.0,350.0
+17/08/2023,Brinco1,Brinco,,50.0,
+14/06/2023,Colar Familia,Colar,8.0,70.0,560.0
+22/09/2023,Conjunto Azul,Conjunto,8.0,80.0,640.0
+16/05/2023,Brinco Trio Verde,Brinco,,50.0,
+09/02/2023,Brinco luz,Brinco,7.0,50.0,350.0
+03/11/2023,Anel coracao,Anel,,30.0,
+18/06/2023,Conjunto Terco,Conjunto,9.0,80.0,720.0
+22/12/2023,Brinco1,Brinco,8.0,50.0,400.0
+16/03/2024,Brinco luz,Brinco,6.0,50.0,300.0
+12/10/2023,Colar Pedras,Colar,9.0,70.0,630.0
+25/07/2023,Conjunto Azul,Conjunto,,80.0,
+17/01/2023,Brinco1,Brinco,9.0,50.0,450.0
+23/04/2024,Anel coracao,Anel,,30.0,
+14/11/2023,Colar Familia,Colar,7.0,70.0,490.0
+27/02/2023,Brinco Trio Verde,Brinco,8.0,50.0,400.0
+19/09/2023,Anel coracao,Anel,8.0,30.0,240.0
+09/06/2024,Conjunto Terco,Conjunto,10.0,80.0,800.0
+15/10/2023,Colar Pedras,Colar,7.0,70.0,490.0
+08/04/2023,Brinco1,Brinco,6.0,50.0,300.0
+27/05/2023,Conjunto Azul,Conjunto,8.0,80.0,640.0
+21/06/2024,Brinco Trio Verde,Brinco,5.0,50.0,250.0
+16/08/2023,Anel coracao,Anel,,30.0,
+20/02/2024,Brinco1,Brinco,9.0,50.0,450.0
+05/03/2023,Colar Pedras,Colar,8.0,70.0,560.0
+11/07/2024,Anel coracao,Anel,7.0,30.0,210.0
+03/10/2023,Conjunto Azul,Conjunto,7.0,80.0,560.0
+16/02/2024,Brinco1,Brinco,8.0,50.0,400.0
+19/07/2024,Colar Pedras,Colar,6.0,70.0,420.0
+09/05/2023,Conjunto Terco,Conjunto,9.0,80.0,720.0
+30/06/2024,Brinco luz,Brinco,10.0,50.0,500.0
+24/01/2024,Anel coracao,Anel,7.0,30.0,210.0
+13/09/2023,Conjunto Azul,Conjunto,6.0,80.0,480.0
+08/04/2024,Brinco1,Brinco,9.0,50.0,450.0
+22/12/2023,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+12/08/2023,Colar Pedras,Colar,9.0,70.0,630.0
+06/10/2023,Anel coracao,Anel,5.0,30.0,150.0
+29/01/2024,Brinco1,Brinco,,50.0,
+17/11/2023,Colar Familia,Colar,8.0,70.0,560.0
+23/05/2024,Anel coracao,Anel,,30.0,
+09/12/2023,Brinco luz,Brinco,9.0,50.0,450.0
+28/03/2024,Colar Pedras,Colar,6.0,70.0,420.0
+15/06/2024,Anel coracao,Anel,6.0,30.0,180.0
+22/08/2023,Conjunto Azul,Conjunto,8.0,80.0,640.0
+04/03/2024,Brinco1,Brinco,7.0,50.0,350.0
+01/11/2023,Colar Pedras,Colar,9.0,70.0,630.0
+09/01/2024,Anel coracao,Anel,7.0,30.0,210.0
+17/03/2024,Brinco luz,Brinco,,50.0,
+22/10/2023,Colar Familia,Colar,6.0,70.0,420.0
+14/07/2023,Brinco Trio Verde,Brinco,8.0,50.0,400.0
+19/02/2024,Conjunto Terco,Conjunto,7.0,80.0,560.0
+27/05/2024,Colar Pedras,Colar,,70.0,
+02/12/2023,Brinco1,Brinco,8.0,50.0,400.0
+09/06/2024,Conjunto Azul,Conjunto,6.0,80.0,480.0
+13/05/2023,Colar Familia,Colar,9.0,70.0,630.0
+27/04/2024,Anel coracao,Anel,8.0,30.0,240.0
+15/02/2023,Brinco luz,Brinco,,50.0,
+23/07/2023,Colar Pedras,Colar,7.0,70.0,490.0
+10/04/2024,Conjunto Terco,Conjunto,8.0,80.0,640.0
+04/02/2024,Brinco1,Brinco,9.0,50.0,450.0
+19/05/2024,Brinco Trio Verde,Brinco,,50.0,
+24/10/2023,Anel coracao,Anel,8.0,30.0,240.0
+11/06/2023,Brinco luz,Brinco,6.0,50.0,300.0
+28/02/2024,Colar Familia,Colar,7.0,70.0,490.0
+04/07/2023,Conjunto Azul,Conjunto,8.0,80.0,640.0
+21/10/2024,Anel coracao,Anel,7.0,30.0,210.0
+30/03/2024,Brinco1,Brinco,8.0,50.0,400.0
+07/04/2023,Colar Pedras,Colar,,70.0,
+12/08/2023,Conjunto Terco,Conjunto,,80.0,
+09/05/2024,Anel coracao,Anel,6.0,30.0,180.0
+16/09/2023,Brinco1,Brinco,5.0,50.0,250.0
+19/12/2023,Conjunto Azul,Conjunto,,80.0,
+01/07/2023,Brinco Trio Verde,Brinco,9.0,50.0,450.0
+05/04/2024,Brinco luz,Brinco,7.0,50.0,350.0
+19/11/2023,Colar Pedras,Colar,6.0,70.0,420.0
+17/03/2024,Anel coracao,Anel,,30.0,
+09/01/2023,Brinco Trio Verde,Brinco,5.0,50.0,250.0
+22/06/2023,Colar Familia,Colar,7.0,70.0,490.0
+06/08/2024,Brinco luz,Brinco,6.0,50.0,300.0
+14/04/2024,Conjunto Azul,Conjunto,10.0,80.0,800.0
+10/12/2023,Brinco1,Brinco,9.0,50.0,450.0
+04/06/2024,Brinco Trio Verde,Brinco,,50.0,
+02/08/2023,Colar Pedras,Colar,6.0,70.0,420.0
+17/09/2023,Conjunto Terco,Conjunto,5.0,80.0,400.0
+18/10/2024,Brinco luz,Brinco,8.0,50.0,400.0
+25/03/2024,Brinco1,Brinco,9.0,50.0,450.0
+12/07/2024,Anel coracao,Anel,8.0,30.0,240.0
+23/12/2023,Conjunto Azul,Conjunto,8.0,80.0,640.0
+05/01/2024,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+04/09/2023,Colar Pedras,Colar,,70.0,
+13/05/2024,Conjunto Terco,Conjunto,,80.0,
+22/08/2023,Anel coracao,Anel,7.0,30.0,210.0
+06/04/2023,Colar Familia,Colar,7.0,70.0,490.0
+10/05/2024,Brinco1,Brinco,9.0,50.0,450.0
+19/06/2024,Conjunto Terco,Conjunto,6.0,80.0,480.0
+23/01/2024,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+09/03/2023,Colar Pedras,Colar,8.0,70.0,560.0
+15/06/2024,Anel coracao,Anel,6.0,30.0,180.0
+18/04/2023,Brinco1,Brinco,8.0,50.0,400.0
+24/11/2023,Conjunto Azul,Conjunto,7.0,80.0,560.0
+17/02/2024,Brinco luz,Brinco,,50.0,
+06/07/2024,Brinco Trio Verde,Brinco,8.0,50.0,400.0
+12/03/2023,Conjunto Terco,Conjunto,7.0,80.0,560.0
+08/09/2024,Anel coracao,Anel,7.0,30.0,210.0
+22/04/2023,Brinco1,Brinco,,50.0,
+25/05/2024,Colar Pedras,Colar,8.0,70.0,560.0
+12/09/2023,Brinco Trio Verde,Brinco,,50.0,
+14/01/2024,Conjunto Azul,Conjunto,9.0,80.0,720.0
+29/06/2024,Anel coracao,Anel,7.0,30.0,210.0
+05/08/2024,Brinco luz,Brinco,6.0,50.0,300.0
+21/11/2023,Colar Familia,Colar,,70.0,
+23/07/2024,Conjunto Terco,Conjunto,7.0,80.0,560.0
+11/02/2024,Brinco1,Brinco,9.0,50.0,450.0
+20/04/2024,Brinco Trio Verde,Brinco,5.0,50.0,250.0
+07/06/2023,Conjunto Azul,Conjunto,,80.0,
+26/05/2024,Colar Pedras,Colar,7.0,70.0,490.0
+04/02/2024,Anel coracao,Anel,8.0,30.0,240.0
+15/01/2023,Brinco luz,Brinco,6.0,50.0,300.0
+12/06/2023,Conjunto Azul,Conjunto,8.0,80.0,640.0
+24/10/2024,Brinco1,Brinco,7.0,50.0,350.0
+28/03/2024,Anel coracao,Anel,7.0,30.0,210.0
+22/09/2023,Conjunto Terco,Conjunto,,80.0,
+16/11/2024,Brinco Trio Verde,Brinco,9.0,50.0,450.0
+02/06/2024,Brinco luz,Brinco,8.0,50.0,400.0
+20/03/2023,Colar Pedras,Colar,,70.0,
+05/08/2023,Conjunto Azul,Conjunto,8.0,80.0,640.0
+21/09/2023,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+13/12/2023,Brinco luz,Brinco,,50.0,
+26/06/2024,Conjunto Terco,Conjunto,9.0,80.0,720.0
+07/11/2024,Brinco1,Brinco,8.0,50.0,400.0
+12/04/2023,Colar Pedras,Colar,,70.0,
+02/07/2024,Brinco Trio Verde,Brinco,5.0,50.0,250.0
+23/05/2024,Anel coracao,Anel,8.0,30.0,240.0
+11/07/2024,Brinco1,Brinco,7.0,50.0,350.0
+25/09/2023,Conjunto Terco,Conjunto,6.0,80.0,480.0
+13/10/2023,Colar Pedras,Colar,8.0,70.0,560.0
+01/06/2023,Brinco luz,Brinco,8.0,50.0,400.0
+09/09/2023,Conjunto Azul,Conjunto,9.0,80.0,720.0
+04/03/2024,Anel coracao,Anel,8.0,30.0,240.0
+02/10/2023,Brinco Trio Verde,Brinco,6.0,50.0,300.0
+22/12/2023,Colar Familia,Colar,7.0,70.0,490.0
+11/08/2024,Anel coracao,Anel,,30.0,
+14/10/2023,Conjunto Terco,Conjunto,8.0,80.0,640.0
+18/12/2023,Brinco luz,Brinco,7.0,50.0,350.0
+06/04/2024,Brinco1,Brinco,9.0,50.0,450.0
+21/07/2024,Colar Pedras,Colar,8.0,70.0,560.0
+02/10/2023,Anel coracao,Anel,,30.0,
+15/06/2023,Brinco Trio Verde,Brinco,6.0,50.0,300.0
+08/04/2024,Conjunto Azul,Conjunto,7.0,80.0,560.0
+12/09/2023,Anel coracao,Anel,9.0,30.0,270.0
+21/05/2023,Brinco1,Brinco,,50.0,
+29/10/2023,Colar Pedras,Colar,7.0,70.0,490.0
+15/01/2024,Conjunto Terco,Conjunto,7.0,80.0,560.0
+17/11/2023,Brinco luz,Brinco,6.0,50.0,300.0
+26/06/2023,Anel coracao,Anel,8.0,30.0,240.0
+22/05/2024,Conjunto Azul,Conjunto,8.0,80.0,640.0
+13/03/2023,Brinco Trio Verde,Brinco,5.0,50.0,250.0
+06/07/2024,Colar Pedras,Colar,6.0,70.0,420.0
+10/04/2023,Brinco1,Brinco,,50.0,
+21/02/2024,Conjunto Terco,Conjunto,8.0,80.0,640.0
+23/06/2023,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+05/12/2024,Colar Pedras,Colar,,70.0,
+13/08/2023,Brinco luz,Brinco,9.0,50.0,450.0
+06/04/2024,Conjunto Azul,Conjunto,9.0,80.0,720.0
+29/12/2023,Anel coracao,Anel,7.0,30.0,210.0
+11/02/2024,Colar Pedras,Colar,,70.0,
+03/01/2024,Brinco Trio Verde,Brinco,8.0,50.0,400.0
+22/05/2023,Brinco luz,Brinco,7.0,50.0,350.0
+19/10/2024,Anel coracao,Anel,7.0,30.0,210.0
+10/02/2023,Conjunto Terco,Conjunto,9.0,80.0,720.0
+03/06/2023,Colar Pedras,Colar,6.0,70.0,420.0
+24/09/2024,Brinco Trio Verde,Brinco,9.0,50.0,450.0
+15/12/2023,Anel coracao,Anel,6.0,30.0,180.0
+05/07/2024,Brinco luz,Brinco,7.0,50.0,350.0
+21/01/2023,Colar Pedras,Colar,,70.0,
+14/10/2024,Anel coracao,Anel,8.0,30.0,240.0
+16/09/2023,Conjunto Terco,Conjunto,,80.0,
+30/11/2024,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+25/07/2023,Brinco luz,Brinco,9.0,50.0,450.0
+10/06/2023,Conjunto Azul,Conjunto,8.0,80.0,640.0
+01/04/2024,Brinco1,Brinco,,50.0,
+04/09/2024,Colar Pedras,Colar,7.0,70.0,490.0
+21/05/2024,Brinco Trio Verde,Brinco,8.0,50.0,400.0
+17/01/2024,Anel coracao,Anel,6.0,30.0,180.0
+19/06/2024,Conjunto Terco,Conjunto,9.0,80.0,720.0
+02/10/2023,Brinco1,Brinco,,50.0,
+24/08/2024,Colar Pedras,Colar,8.0,70.0,560.0
+03/09/2024,Anel coracao,Anel,9.0,30.0,270.0
+09/11/2023,Brinco luz,Brinco,8.0,50.0,400.0
+27/01/2024,Colar Pedras,Colar,7.0,70.0,490.0
+15/06/2024,Conjunto Azul,Conjunto,,80.0,
+13/03/2024,Brinco1,Brinco,9.0,50.0,450.0
+22/04/2024,Conjunto Terco,Conjunto,8.0,80.0,640.0
+12/08/2023,Brinco1,Brinco,7.0,50.0,350.0
+19/07/2023,Colar Pedras,Colar,9.0,70.0,630.0
+04/05/2024,Anel coracao,Anel,6.0,30.0,180.0
+09/11/2024,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+23/06/2024,Colar Familia,Colar,,70.0,
+11/09/2024,Anel coracao,Anel,9.0,30.0,270.0
+20/02/2024,Conjunto Terco,Conjunto,6.0,80.0,480.0
+25/05/2024,Brinco luz,Brinco,7.0,50.0,350.0
+14/12/2023,Brinco1,Brinco,,50.0,
+06/03/2024,Colar Pedras,Colar,6.0,70.0,420.0
+30/06/2023,Conjunto Azul,Conjunto,9.0,80.0,720.0
+10/10/2024,Brinco1,Brinco,9.0,50.0,450.0
+02/04/2024,Brinco Trio Verde,Brinco,8.0,50.0,400.0
+21/12/2023,Colar Pedras,Colar,9.0,70.0,630.0
+13/01/2024,Brinco luz,Brinco,7.0,50.0,350.0
+17/02/2024,Anel coracao,Anel,6.0,30.0,180.0
+23/10/2023,Colar Familia,Colar,,70.0,
+15/05/2024,Conjunto Azul,Conjunto,7.0,80.0,560.0
+18/09/2024,Brinco Trio Verde,Brinco,9.0,50.0,450.0
+25/11/2023,Anel coracao,Anel,8.0,30.0,240.0
+22/07/2024,Colar Pedras,Colar,7.0,70.0,490.0
+16/09/2023,Brinco1,Brinco,,50.0,
+30/08/2023,Conjunto Terco,Conjunto,,80.0,
+05/02/2024,Brinco luz,Brinco,9.0,50.0,450.0
+10/06/2024,Colar Familia,Colar,8.0,70.0,560.0
+02/11/2023,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+24/01/2024,Anel coracao,Anel,8.0,30.0,240.0
+03/08/2023,Conjunto Terco,Conjunto,,80.0,
+10/12/2023,Colar Pedras,Colar,,70.0,
+13/07/2023,Brinco luz,Brinco,7.0,50.0,350.0
+22/11/2023,Anel coracao,Anel,9.0,30.0,270.0
+01/03/2024,Colar Pedras,Colar,8.0,70.0,560.0
+07/10/2023,Brinco1,Brinco,7.0,50.0,350.0
+20/06/2024,Conjunto Azul,Conjunto,7.0,80.0,560.0
+29/04/2024,Brinco Trio Verde,Brinco,9.0,50.0,450.0
+05/02/2023,Anel coracao,Anel,8.0,30.0,240.0
+23/07/2024,Colar Pedras,Colar,,70.0,
+12/06/2023,Brinco luz,Brinco,6.0,50.0,300.0
+11/04/2023,Conjunto Terco,Conjunto,9.0,80.0,720.0
+14/08/2023,Anel coracao,Anel,7.0,30.0,210.0
+27/03/2024,Brinco Trio Verde,Brinco,8.0,50.0,400.0
+16/10/2024,Colar Pedras,Colar,7.0,70.0,490.0
+22/09/2023,Brinco1,Brinco,,50.0,
+17/05/2023,Anel coracao,Anel,8.0,30.0,240.0
+01/08/2024,Brinco luz,Brinco,7.0,50.0,350.0
+10/07/2023,Colar Familia,Colar,9.0,70.0,630.0
+30/12/2023,Brinco Trio Verde,Brinco,,50.0,
+19/02/2024,Anel coracao,Anel,7.0,30.0,210.0
+06/06/2024,Brinco1,Brinco,9.0,50.0,450.0
+18/12/2023,Brinco luz,Brinco,8.0,50.0,400.0
+26/03/2024,Anel coracao,Anel,9.0,30.0,270.0
+30/06/2024,Colar Pedras,Colar,,70.0,
+25/07/2023,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+19/05/2024,Anel coracao,Anel,8.0,30.0,240.0
+07/04/2024,Brinco luz,Brinco,7.0,50.0,350.0
+13/02/2024,Conjunto Azul,Conjunto,8.0,80.0,640.0
+05/03/2024,Colar Pedras,Colar,7.0,70.0,490.0
+11/05/2024,Brinco Trio Verde,Brinco,8.0,50.0,400.0
+27/07/2024,Anel coracao,Anel,7.0,30.0,210.0
+14/06/2024,Brinco luz,Brinco,8.0,50.0,400.0
+20/07/2024,Conjunto Terco,Conjunto,,80.0,
+29/09/2024,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+12/04/2024,Anel coracao,Anel,9.0,30.0,270.0
+23/11/2023,Colar Pedras,Colar,,70.0,
+02/12/2023,Brinco1,Brinco,,50.0,
+17/09/2023,Conjunto Azul,Conjunto,7.0,80.0,560.0
+04/06/2024,Anel coracao,Anel,9.0,30.0,270.0
+28/02/2024,Brinco luz,Brinco,9.0,50.0,450.0
+19/04/2024,Conjunto Terco,Conjunto,9.0,80.0,720.0
+21/07/2024,Colar Familia,Colar,7.0,70.0,490.0
+12/09/2023,Brinco1,Brinco,8.0,50.0,400.0
+02/06/2024,Colar Pedras,Colar,9.0,70.0,630.0
+07/01/2024,Anel coracao,Anel,7.0,30.0,210.0
+25/05/2024,Brinco1,Brinco,,50.0,
+16/10/2023,Conjunto Terco,Conjunto,8.0,80.0,640.0
+10/12/2023,Brinco Trio Verde,Brinco,9.0,50.0,450.0
+22/03/2024,Anel coracao,Anel,7.0,30.0,210.0
+06/11/2024,Colar Pedras,Colar,8.0,70.0,560.0
+12/01/2024,Brinco luz,Brinco,,50.0,
+28/08/2024,Conjunto Azul,Conjunto,7.0,80.0,560.0
+15/07/2024,Colar Familia,Colar,7.0,70.0,490.0
+03/04/2024,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+24/11/2023,Anel coracao,Anel,8.0,30.0,240.0
+09/01/2024,Conjunto Terco,Conjunto,,80.0,
+05/10/2023,Colar Pedras,Colar,7.0,70.0,490.0
+11/05/2023,Brinco1,Brinco,,50.0,
+03/09/2024,Anel coracao,Anel,9.0,30.0,270.0
+19/08/2023,Colar Familia,Colar,7.0,70.0,490.0
+26/11/2023,Brinco Trio Verde,Brinco,9.0,50.0,450.0
+07/10/2023,Anel coracao,Anel,8.0,30.0,240.0
+21/03/2024,Conjunto Terco,Conjunto,,80.0,
+08/05/2024,Brinco luz,Brinco,7.0,50.0,350.0
+30/07/2023,Brinco1,Brinco,,50.0,
+14/06/2023,Anel coracao,Anel,9.0,30.0,270.0
+11/12/2023,Colar Pedras,Colar,7.0,70.0,490.0
+25/06/2023,Conjunto Azul,Conjunto,7.0,80.0,560.0
+04/08/2024,Anel coracao,Anel,7.0,30.0,210.0
+02/03/2024,Brinco luz,Brinco,9.0,50.0,450.0
+10/05/2024,Conjunto Terco,Conjunto,7.0,80.0,560.0
+12/12/2023,Anel coracao,Anel,8.0,30.0,240.0
+03/08/2024,Brinco1,Brinco,7.0,50.0,350.0
+16/04/2024,Colar Pedras,Colar,9.0,70.0,630.0
+09/09/2024,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+17/11/2024,Conjunto Terco,Conjunto,9.0,80.0,720.0
+23/03/2024,Brinco luz,Brinco,8.0,50.0,400.0
+11/08/2023,Colar Familia,Colar,7.0,70.0,490.0
+10/01/2024,Anel coracao,Anel,7.0,30.0,210.0
+20/06/2024,Conjunto Azul,Conjunto,7.0,80.0,560.0
+13/02/2024,Brinco1,Brinco,9.0,50.0,450.0
+01/10/2024,Colar Pedras,Colar,8.0,70.0,560.0
+08/05/2023,Conjunto Terco,Conjunto,,80.0,
+21/07/2023,Brinco Trio Verde,Brinco,8.0,50.0,400.0
+07/11/2024,Anel coracao,Anel,9.0,30.0,270.0
+22/12/2024,Colar Familia,Colar,9.0,70.0,630.0
+17/05/2024,Brinco1,Brinco,7.0,50.0,350.0
+02/09/2024,Anel coracao,Anel,9.0,30.0,270.0
+16/06/2024,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+25/07/2024,Colar Pedras,Colar,9.0,70.0,630.0
+20/03/2024,Conjunto Terco,Conjunto,9.0,80.0,720.0
+27/05/2024,Brinco1,Brinco,9.0,50.0,450.0
+15/01/2024,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+22/06/2024,Anel coracao,Anel,7.0,30.0,210.0
+04/12/2024,Colar Pedras,Colar,9.0,70.0,630.0
+09/04/2024,Brinco1,Brinco,7.0,50.0,350.0
+10/10/2024,Conjunto Azul,Conjunto,9.0,80.0,720.0
+14/08/2023,Brinco luz,Brinco,8.0,50.0,400.0
+28/11/2024,Colar Pedras,Colar,9.0,70.0,630.0
+18/02/2024,Conjunto Terco,Conjunto,8.0,80.0,640.0
+07/06/2024,Brinco Trio Verde,Brinco,9.0,50.0,450.0
+19/08/2023,Anel coracao,Anel,7.0,30.0,210.0
+14/03/2024,Brinco1,Brinco,9.0,50.0,450.0
+02/07/2024,Conjunto Azul,Conjunto,8.0,80.0,640.0
+29/08/2024,Brinco luz,Brinco,7.0,50.0,350.0
+01/09/2024,Anel coracao,Anel,9.0,30.0,270.0
+18/07/2024,Colar Familia,Colar,9.0,70.0,630.0
+21/05/2024,Brinco Trio Verde,Brinco,8.0,50.0,400.0
+15/04/2024,Anel coracao,Anel,8.0,30.0,240.0
+05/08/2024,Colar Pedras,Colar,9.0,70.0,630.0
+22/09/2024,Brinco1,Brinco,9.0,50.0,450.0
+30/04/2024,Anel coracao,Anel,7.0,30.0,210.0
+28/12/2024,Conjunto Terco,Conjunto,7.0,80.0,560.0
+19/07/2024,Colar Pedras,Colar,9.0,70.0,630.0
+23/03/2024,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+10/02/2024,Anel coracao,Anel,8.0,30.0,240.0
+15/09/2024,Colar Familia,Colar,9.0,70.0,630.0
+03/01/2024,Brinco1,Brinco,8.0,50.0,400.0
+11/06/2024,Anel coracao,Anel,7.0,30.0,210.0
+22/05/2024,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+27/02/2024,Colar Pedras,Colar,8.0,70.0,560.0
+06/04/2024,Brinco Trio Verde,Brinco,8.0,50.0,400.0
+17/12/2024,Anel coracao,Anel,8.0,30.0,240.0
+24/07/2024,Conjunto Azul,Conjunto,8.0,80.0,640.0
+21/09/2024,Brinco luz,Brinco,7.0,50.0,350.0
+01/03/2024,Conjunto Terco,Conjunto,9.0,80.0,720.0
+12/08/2024,Brinco1,Brinco,9.0,50.0,450.0
+04/10/2024,Anel coracao,Anel,9.0,30.0,270.0
+22/10/2024,Colar Familia,Colar,9.0,70.0,630.0
+19/11/2024,Brinco Trio Verde,Brinco,7.0,50.0,350.0
+10/12/2024,Colar Pedras,Colar,8.0,70.0,560.0
