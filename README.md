@@ -18,3 +18,6 @@
 - As bibliotecas: Pandas, Matplotlib e Jupyter Notebook.
 - Clonar o repositório
 - Abra o arquivo no Jupyter Notebook:
+
+# consulta sql
+- Após a execução do script main.ipynb, é realizada uma consulta SQL.
