@@ -21,3 +21,10 @@
 
 # consulta sql
 - Após a execução do script main.ipynb, é realizada uma consulta SQL.
+- Usei o ElephantSQL para hospedar o banco de dados online e vou deixar as configurações de conexão salvas no e-mail.
+
+
+
+
+
+
